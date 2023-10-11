@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Snaps Project.unity
+    guid: 02d41c2161be2c448bb6243209f90301
   m_configObjects: {}
